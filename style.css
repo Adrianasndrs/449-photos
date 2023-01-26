@@ -1,0 +1,30 @@
+html{
+    background-color: rgb(177, 244, 192);
+}
+
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 20px;
+    padding: 20px;
+    color: rgb(255, 255, 255);
+    border-top: 5pc solid #084a0c;
+    border-radius: 15px;
+    background-color: #878787;
+    text-align: center;
+}
+
+h1{
+    font-size: 5em;
+    margin: 0 auto;
+    text-shadow: 2px 2px #084a0c;
+}
+
+.photos img{
+    width: 20em;
+    height: 20em;
+    object-fit: cover;
+    border-radius: 15px;
+}
+
+
+
